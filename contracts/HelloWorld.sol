@@ -15,4 +15,8 @@ contract HelloWorld {
         message = _newMessage;
         
     }
+    function getMes() public view returns(string memory) {
+        
+        
+    }
 }
