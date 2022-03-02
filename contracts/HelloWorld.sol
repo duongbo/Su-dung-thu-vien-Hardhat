@@ -16,7 +16,7 @@ contract HelloWorld {
         
     }
     function getMes() public view returns(string memory) {
-        
-        
+
+        return message;
     }
 }
